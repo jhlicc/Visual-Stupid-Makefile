@@ -1,4 +1,4 @@
 Visual-Stupid-Makefile
 ======================
 
-Easy Makefile for C programming
+Easy Auto Makefile for C, C++ programming
